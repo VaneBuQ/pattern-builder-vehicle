@@ -2,7 +2,7 @@
 
 ## Explicación funcional
 
-Este proyecto permite generar documentación de compra de vehículos en diferentes formatos (PDF y HTML) utilizando el patrón Abstract Factory. El usuario selecciona el formato deseado y el sistema crea los documentos correspondientes mediante fábricas especializadas, facilitando la extensión y el mantenimiento del código.
+Este proyecto permite generar documentación de compra de vehículos en diferentes formatos (PDF y HTML) utilizando el patrón Builder. El usuario selecciona el formato deseado y el sistema crea los documentos correspondientes.
 
 ## Explicación técnica
 
